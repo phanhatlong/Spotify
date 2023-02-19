@@ -1,0 +1,8 @@
+.play-music {
+  background-color: #0f172a !important;
+  height: 6rem;
+}
+.rhap time,
+.rhap :current-time {
+  color: white !important;
+}
